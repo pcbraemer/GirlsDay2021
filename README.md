@@ -3,6 +3,8 @@ Installation von Jupyter Notebooks lokal:
 ```bash
 pip install notebook
 ```
+Außerdem wird [CMake](https://cmake.org/download/)benötigt.
+
 Starten von Jupyter Notebooks:
 ```bash
 jupyter notebook
