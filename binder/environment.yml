@@ -4,8 +4,8 @@ channels:
   - conda-forge
   - defaults 
 dependencies:
-  - tensorflow==2.3.1
-  - pyglet==1.5.11
+  - tensorflow=2.3.1
+  - pyglet=1.5.11
   - gym
   - keras-rl2
   - gym-atari
